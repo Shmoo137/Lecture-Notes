@@ -1,7 +1,6 @@
 # This is a work-in-progress repository for figures contained in "Modern applications of machine learning in quantum sciences"
-## Eventually, I will make a public repo containing all data and files from here but without the history ;)
 
-[![DOI](https://zenodo.org/badge/123456789.svg)](https://zenodo.org/badge/latestdoi/123456789)
+[![DOI](https://zenodo.org/badge/?.svg)](https://zenodo.org/badge/latestdoi/?)
 
 List of our figures:
 - 1.3
