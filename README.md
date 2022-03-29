@@ -3,22 +3,21 @@
 [![DOI](https://zenodo.org/badge/?.svg)](https://zenodo.org/badge/latestdoi/?)
 
 List of our figures:
-- 1.3
-- 2.1
-- 3.1
-- 3.3
-- 3.5
-- 3.6
-- 3.7
-- 4.1
-- 4.3
-- 4.6
-- 4.10
-- 6.4
-- 7.4
+- 1.3 % of ML-based articles in the selected fields in years 2000-2021
+- 2.1 Plots of the (a) binary cross-entropy and (b) mean-squared error (ANNA)
+- 3.1 Ising model (ROUVEN and JULIAN)
+- 3.2 IGT (ROUVEN and JULIAN)
+- 3.3bc PCA (ROUVEN and JULIAN)
+- 3.6 Learning by confusion (ROUVEN and JULIAN)
+- 3.7 Pediction-based method (ROUVEN and JULIAN)
+- 4.1 Toy example of a labeled two-dimensional data set
+- 4.3 The kernel form makes a difference
+- 4.6 Selection of new candidate points via BO using Upper Confidence Bound acquisition function
+- 6.4a Parameter update for a random walker (BORJA)
+- 7.4 Inverse Schrödinger problem solved using dP
 - 8.4 Perceptron capacity by Cover
-- 8.11
-- 8.16
+- 8.11 Illustration of a quantum circuit (PAOLO)
+- 8.16 Variational quantum simulation (PAOLO)
 
 Moreover, folder `colors` contains:
 - `colors_dict.pkl` - pickled dictionary with our RGB-coded five main colors (green, purple, yellow, orange, blue) and their three shades (dark, medium, light),
