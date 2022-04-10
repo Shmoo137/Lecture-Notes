@@ -1,4 +1,4 @@
-# This is a work-in-progress repository for figures contained in "Modern applications of machine learning in quantum sciences"
+# This is a repository for figures and tex files of "Modern applications of machine learning in quantum sciences"
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/Shmoo137/Lecture-Notes/)
 
@@ -68,6 +68,9 @@ projective simulation agents
 - 8.13 Realization of the famous Shor algorithm in a real quantum computer
 - 8.14 Quantum support vector machine enhanced by a quantum device
 - 8.15 Variational optimization of quantum circuits
+
+### Folder `tex_files` contains:
+- `arXiv_v1.zip` - zipped complete set of tex files and associated ones being a basis for the arXiv v1 submission (we recommend loading it with Overleaf).
 
 ### Moreover, folder `colors` contains:
 - `colors_dict.pkl` - pickled dictionary with our RGB-coded five main colors (green, purple, yellow, orange, blue) and their three shades (dark, medium, light),
