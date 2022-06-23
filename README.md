@@ -25,14 +25,16 @@
 - 1.2 AI vs ML vs DL
 - 1.4 Interplay between AI, quantum computing, many-body physics, and quantum chemistry
 - 1.5 Contents of these Lecture Notes
+- 1.6 Tree of dependencies between chapters (added in v2)
 - 2.2 Learing rate as a hyperparameter
 - 2.3 Under- and overfitting
 - 2.4 The bias-variance trade-off
 - 2.5 Geometric construction of SVMs
-- 2.6 Neural network
+- 2.6 Neural network (modified in v2)
 - 2.7 Convolutional filter
 - 2.8 Autoencoder
 - 2.9 Recurrent neural network
+- 2.10 Backpropagation (added in v2)
 - 3.3a Phase classification with PCA
 - 3.9b Interpretation of neural networks via bottlenecks
 - 4.2 A linear SVM applied to non-linearly separable data
@@ -57,8 +59,10 @@ projective simulation agents
 - 6.10 Reinforcement learning to find optimal relaxations
 - 7.1 Machine learning influences physics
 - 7.2 Standard vs differentiable programming
-- 7.5 Sketch of a normalizing flow
-- 7.13 Illustration of the Hamiltonian learning of a one-spin system
+- 7.5 Sketch of a normalizing flow (modified in v2)
+- 7.6 Volume transformation (added in v2)
+- 7.14 Illustration of the Hamiltonian learning of a one-spin system
+- 7.17 Automated design on experiments (added in v2)
 - 8.1 Physics influences machine learning
 - 8.2 Statistical physics toolbox for understanding machine learning theory
 - 8.3 Generalization error in classical and modern regimes
@@ -71,6 +75,7 @@ projective simulation agents
 
 ### Folder `tex_files` contains:
 - `arXiv_v1.zip` - zipped complete set of tex files and associated ones being a basis for the arXiv v1 submission (we recommend loading it with Overleaf).
+- `arXiv_v2.zip` - version 2.
 
 ### Moreover, folder `colors` contains:
 - `colors_dict.pkl` - pickled dictionary with our RGB-coded five main colors (green, purple, yellow, orange, blue) and their three shades (dark, medium, light),
@@ -81,3 +86,12 @@ projective simulation agents
 ### Finally, folder `fonts` contains:
 - set of fonts called *New Hero* used for text in plots,
 - Jupyter notebook that shows how to use them with Python.
+
+## Version 2 update (22.06.2022)!
+- We wrote a new section 2.5 on backpropagation in NNs (with a new fig. 2.10)
+- We expanded section 7.2.2 on normalizing flows (with a new fig. 7.6)
+- We wrote a new section 7.3.4 on automated design of experiments (with a new fig. 7.17) and expanded the outlook of 7.3 (ML for experiments).
+- We added the appendix C concerning kernel methods.
+- We added a tree of dependencies between chapters to allow the reader to choose what they want to read in a more informed way (fig. 1.6)
+- We modified slightly two figures: 2.6 NN and neuron and 7.5 Sketch of a normalizing flow.
+- We added new references following feedback from the community.
